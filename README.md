@@ -32,4 +32,4 @@
   
   # prediction 
   
-  finally, predict the value if all works well then the model predicts the accurate values.
+  finally, predict the value if all works well then the model predicts the accurate values...!
