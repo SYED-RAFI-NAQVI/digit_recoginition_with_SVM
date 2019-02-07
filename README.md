@@ -1,4 +1,4 @@
-# digit_recoginition_with_SVM
+# Digit_recoginition_with_SVM
 
 
 
