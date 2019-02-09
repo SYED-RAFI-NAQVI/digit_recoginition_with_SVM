@@ -6,7 +6,8 @@
   
   Import the required packages. Numpy, Matplotlib are essential packages for data cleaning and data visualizing.
   Scikit-Learn library provides numerously supervised and unsupervised algorithms. import SVM (support vector machine) from  
-  sci-kit-learn for the classification. import required dataset, which provides by the sci-kit-learn or from any kaggel repo.
+  sci-kit-learn for the classification. import required dataset, which provides by the sci-kit-learn or from any kaggel   
+  repositories.
   
   
   # Loading datasets
