@@ -16,7 +16,7 @@
   test data, can use the test data to test how our predictions are going on.
   
   
-  # classifier
+  # Classifier
   
   In the project, we choose SVC (support vector classifier) the classifier to classify the given data set. we are passing just 
   two parameters gamma and C. gamma ==> learning rate and C ==> optimization. the learning rate is, how fast algorithm is 
@@ -24,13 +24,13 @@
   take care about the optimization of the data. for more info check out https://stats.stackexchange.com/posts/159051/revisions
   
   
-  # splitting and fitting the data
+  # Splitting and fitting the data
   
   split the data into training and test data. train data used to train our machine learning model, test data used to test the
   data after training the machine learning model to check how accurate the model predicting. fitting the data into the 
   model where the classification takes place, the word behind this is Gradient decent helps to attain the least mean square
   error. 
   
-  # prediction 
+  # Prediction 
   
   finally, predict the value if all works well then the model predicts the accurate values..!
