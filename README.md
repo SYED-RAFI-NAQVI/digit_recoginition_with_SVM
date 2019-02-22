@@ -28,7 +28,7 @@
   
   split the data into training and test data. train data used to train our machine learning model, test data used to test the
   data after training the machine learning model to check how accurate the model predicting. fitting the data into the 
-  model where the classification takes place, the word behind this is Gradient decent helps to attain the least mean square
+  model where the classification takes place, the word behind this is Gradient decent helps to attain the least mean Square
   error. 
   
   # Prediction 
